@@ -8,6 +8,13 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=misskalyani&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+- 📫 How to reach me **kalyanichaudhari281@gmail.com**
+
+- ⚡ Fun fact **I am Funny😜**
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/misskalyani281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misskalyani281" height="30" width="40" /></a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=misskalyani&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
