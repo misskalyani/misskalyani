@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://instagram.com/miss_kalyani_281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="misskalyani281" height="30" width="40" /></a>
 </p>
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miss_kalyani_281)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=misskalyani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
