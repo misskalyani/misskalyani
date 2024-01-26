@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kalyani Chaudhari</h1> 
 
 
-
+<h3 # 💫 About Me: h3>
 💫 Hello,I am Kalyani , and I am a Computer  Science Student at Savitribai Phule Pune , University.<br>
 🔭 I’m currently Studying in SY Bsc Computer Science<br>
 👯 I’m looking to collaborate with other creators and developers<br>
