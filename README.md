@@ -2,11 +2,10 @@
 
 
 
-- # 💫 About Me:
+💫 Hello,I am Kalyani , and I am a Computer  Science Student at Savitribai Phule Pune , University.<br>
 🔭 I’m currently Studying in SY Bsc Computer Science<br>
 👯 I’m looking to collaborate with other creators and developers<br>
 🤝 I’m looking for help with Mentor<br>🌱 I’m currently learning DSA & Python<br>
-💬 Ask me about Hello,I am Kalyani , and I am a Computer  Science Student at Savitribai Phule Pune , University.<br>
 ⚡ Fun fact Best Part of the Journey Is : It Ends
 
 # 💻 Tech Stack:
