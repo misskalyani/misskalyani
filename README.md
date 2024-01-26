@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kalyani Chaudhari</h1> 
 
 
- # 💫 About Me: 
+# 💫 About Me: 
 💫 Hello,I am Kalyani , and I am a Computer  Science Student at Savitribai Phule Pune , University.<br>
 🔭 I’m currently Studying in SY Bsc Computer Science<br>
 👯 I’m looking to collaborate with other creators and developers<br>
@@ -14,7 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=misskalyani&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-📫 How to reach me **kalyanichaudhari281@gmail.com**
 
 
 ## 🌐 Socials:
