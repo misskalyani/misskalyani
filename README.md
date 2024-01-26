@@ -17,7 +17,7 @@
 📫 How to reach me **kalyanichaudhari281@gmail.com**
 
 
- <h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miss_kalyani_281)
 
 # 📊 GitHub Stats:
