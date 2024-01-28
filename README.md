@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=misskalyani&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 🌐 Connect with me:
+## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miss_kalyani_281)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kalyani-chaudhari1113) 
 
