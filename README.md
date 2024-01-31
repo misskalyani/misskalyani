@@ -17,14 +17,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miss_kalyani_281)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kalyani-chaudhari1113) 
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=misskalyani&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=misskalyani&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=misskalyani&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
