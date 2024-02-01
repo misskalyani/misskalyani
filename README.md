@@ -30,11 +30,10 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=misskalyani&show_icons=true&theme=radical&hide_border=false&locale=en&layout=compact" alt="misskalyani" /></p>
+![](https://github-readme-stats.vercel.app/api?username=misskalyani&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=misskalyani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misskalyani&show_icons=true&theme=radical&hide_border=false&locale=en" alt="misskalyani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false&" alt="misskalyani" /></p>
 
 ### ✍️ Today Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
