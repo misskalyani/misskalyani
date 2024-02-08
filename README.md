@@ -1,5 +1,5 @@
-<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I+am+Kalyani+Chaudhari" alt="Typing SVG" /></a>
-</p>
+<h1<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I+am+Kalyani+Chaudhari" alt="Typing SVG" /></a>
+</p></p><h1>
 <!-- <h1 align="center"> misskalyani </h1> <!-- Name Header -->
 <!-- <h1 align="center"> (Kalyani) </h1> --><!-- Nicknamne Header -->
 
