@@ -2,6 +2,9 @@
 </p></p>
 <!-- <h1 align="center"> misskalyani </h1> <!-- Name Header -->
 <!-- <h1 align="center"> (Kalyani) </h1> --><!-- Nicknamne Header -->
+<h3 align="center">A passionate Full Stack Web Developepment Student </h3>
+<img  align="right" alt="Coding" width="400"
+src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif">
 
 # 💫 About Me: 
 💫 Hello,I am Kalyani , and I am a Computer  Science Student at Savitribai Phule Pune , University.<br>
