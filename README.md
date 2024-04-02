@@ -19,7 +19,7 @@
 
 ## 🌐 Connect With Me:
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/kalyani-chaudhari-255632295) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kalyani-chaudhari-255632295) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=misskalyani&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
