@@ -37,12 +37,20 @@
 
 
 
-# 📊 GitHub Stats:
+
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=misskalyani&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false" />
-<img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=misskalyani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100" />
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=misskalyani&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=misskalyani&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=100)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=misskalyani&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=misskalyani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
