@@ -40,9 +40,8 @@
 # 📊 GitHub Stats:
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=misskalyani&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
 <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false" />
+<img width="50%" align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=misskalyani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=misskalyani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
 
 
 
