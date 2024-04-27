@@ -38,17 +38,18 @@
 
 
 # 📊 GitHub Stats:
-<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=misskalyani&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=misskalyani&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=misskalyani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
-</p>
+
 
 
 
 ### ✍️ Today Dev Quote
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=misskalyani&icon=0&color=0)](https://visitcount.itsvg.in)
