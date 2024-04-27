@@ -38,7 +38,7 @@
 
 
 
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=misskalyani&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+
 
 
 # 📊 GitHub Stats:
@@ -49,8 +49,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=misskalyani&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=misskalyani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
@@ -59,7 +57,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=misskalyani&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 ![](https://img.shields.io/github/followers/misskalyani?style=social)
