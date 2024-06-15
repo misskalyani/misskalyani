@@ -3,7 +3,12 @@
 <!-- <h1 align="center"> misskalyani </h1> <!-- Name Header -->
 <!-- <h1 align="center"> (Kalyani) </h1> --><!-- Nicknamne Header -->
 
-
+(use-package markdown-mode
+  :ensure t
+  :mode ("README\\.md\\'" . gfm-mode)
+  :init (setq markdown-command "multimarkdown")
+  :bind (:map markdown-mode-map
+         ("C-c C-e" . markdown-do)))
 
 # 💫 About Me: 
 **💫 Hello,I am Kalyani , and I am a Computer  Science Student at Savitribai Phule Pune , University.<br>
