@@ -3,7 +3,11 @@
 <!-- <h1 align="center"> misskalyani </h1> <!-- Name Header -->
 <!-- <h1 align="center"> (Kalyani) </h1> --><!-- Nicknamne Header -->
 
-
+@media (prefers-color-scheme: dark) {
+  [data-color-mode="system"] YOUR_SELECTOR {
+    /* CSS goes here */
+  }
+}
 
 # 💫 About Me: 
 **💫 Hello,I am Kalyani , and I am a Computer  Science Student at Savitribai Phule Pune , University.<br>
