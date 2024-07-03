@@ -1,8 +1,8 @@
 
-<h1><p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I+am+Kalyani+Chaudhari" alt="Typing SVG" /></a>
+<h1><p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I+am+Kalyani+Chaudhari" alt="Typing SVG" /></a></h1>
 [![](https://visitcount.itsvg.in/api?id=misskalyani&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 ![](https://img.shields.io/github/followers/misskalyani?style=social)
-</h1>
+
 
 </p>
 
