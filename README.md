@@ -4,8 +4,6 @@
 <!-- <h1 align="center"> (Kalyani) </h1> --><!-- Nicknamne Header -->
 [![](https://visitcount.itsvg.in/api?id=misskalyani&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://img.shields.io/github/followers/misskalyani?style=social)
-[![CI](https://github.com/misskalyani/misskalyani/actions/workflows/blank.yml/badge.svg)](https://github.com/misskalyani/misskalyani/actions/workflows/blank.yml)
-
 
 
 
@@ -35,6 +33,8 @@
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyani-chaudhari-255632295) 
  [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:kalyanichaudhari281@gmail.com)
+[![CI](https://github.com/misskalyani/misskalyani/actions/workflows/blank.yml/badge.svg)](https://github.com/misskalyani/misskalyani/actions/workflows/blank.yml)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=misskalyani&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
