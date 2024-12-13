@@ -34,12 +34,11 @@
 
 ## 🌐 Connect With Me:
 
+
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyani-chaudhari-255632295) 
  [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:kalyanichaudhari281@gmail.com)
 
-<div align="center">
-  <a href= "https://twitter.com/anujcodes_25">
-  <img align="center" src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter icon" height="40" width="40" /></a>&ensp;
 </div>
 
 ## 🏆 GitHub Trophies
