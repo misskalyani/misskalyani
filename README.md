@@ -40,7 +40,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=misskalyani&theme=monokai&no-frame=false&no-bg=false&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=misskalyani&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
 
 
